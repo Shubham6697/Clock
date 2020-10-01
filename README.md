@@ -1,2 +1,2 @@
 ## Clock
-A Clock with Timer, Alarm, Stopwatch made using Python
+A Clock with Timer, Alarm, Stopwatch made by using Python
